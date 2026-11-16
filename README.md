@@ -39,6 +39,10 @@
 - 薄纱礼物梨 → **PEAR** / for you（奶油米底）
 - 太妃糖布丁 → **STICKY** / toffee pudding（奶油杏底）
 
+## 示例图
+
+全部 11 个主题的生成海报（含迭代版本）见 [](./examples/) 目录，按「序号-标题词-主体-版本」命名，如 `18-STICKY-toffee-pudding.png`。
+
 ## 安装
 
 将整个 `poster-style-clone/` 目录放入 WorkBuddy 技能目录：
